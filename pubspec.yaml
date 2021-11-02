@@ -1,5 +1,5 @@
-name: optimal_oncology
-description: A new Flutter project.
+name: my_bloc
+description: A SAPLE BLOC PATTERN FOR STUDY PURPOSE.
 
 # The following line prevents the package from being accidentally published to
 # pub.dev using `pub publish`. This is preferred for private packages.
