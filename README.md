@@ -1,4 +1,4 @@
-# optimal_oncology
+# used to create apps with BLoC pattern instantly
 
 A new Flutter project.
 
